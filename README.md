@@ -1,6 +1,10 @@
 ## Raúl's React project template
 
-Currently a WIP.
+
+[![npm](https://img.shields.io/npm/v/cra-template-rauln.svg)](https://www.npmjs.com/package/cra-template-rauln)
+![npm downloads](https://img.shields.io/npm/dt/cra-template-rauln)
+
+Using Create React App. Currently a WIP.
 
 ## Use this template
 
