@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-rauln",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "mirage",
+    "tailwind",
+    "cypress"
+  ],
+  "description": "A custom Create React App template to quickstart my projects.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rnegron/react-project-template.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/rnegron/react-project-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
