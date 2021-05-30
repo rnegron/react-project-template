@@ -14,15 +14,15 @@ npx create-react-app my-app --template rauln
 
 ## Features
 
-- Typescript
-- MirageJS
-- Tailwind CSS
-- rustywind
-- Cypress
-- prettier
-- eslint
-- axios
+- [Typescript](https://www.typescriptlang.org/)
+- [MirageJS](https://miragejs.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [RustyWind](https://github.com/avencera/rustywind)
+- [Cypress](https://www.cypress.io/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
+- [axios](https://axios-http.com/)
 
 ## How to deploy with Netlify
 
-In the Netlify build settings, set the build command to `yarn build:all` and the public directory to `build/`.
+In the Netlify build settings, set the build command to `yarn build` and the public directory to `build/`.

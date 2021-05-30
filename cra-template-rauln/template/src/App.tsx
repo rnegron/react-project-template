@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/tailwind.css'
+import './styles/index.css';
 
 function App() {
   return <div></div>;
